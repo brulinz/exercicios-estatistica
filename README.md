@@ -1,1 +1,1 @@
-projeto para enviar exercicios de estatistica
+Repositório para guardar exercícios de estatística
